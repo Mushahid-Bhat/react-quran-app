@@ -1,0 +1,33 @@
+.chapterItemCard {
+    width: 96%;
+    height: auto;
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.chapterItemCard:hover {
+    background: #ffffff99;
+}
+
+.chapterItemCard h2 {
+    text-align: center;
+    font-size: 2.2em;
+    opacity: .8;
+}
+
+.chapterItemCard p:first-of-type {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+.chapterItemCard p {
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+
